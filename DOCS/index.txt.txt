@@ -1,0 +1,23 @@
+Descripció Contingut:
+
+Jocs de proves:
+
+	Conte un possible joc de proves
+	3 Documents utilitzats pel joc de proves
+
+
+Casos d'ús
+
+	Esquema dels casos d'us
+
+Descripció Casos d'ús
+
+	Descripció més detallada dels casos d'ús
+
+
+Diagrama de classes:
+
+	Esquema del diagrama de classes
+
+
+

@@ -1,0 +1,49 @@
+Jocs de proves:
+
+fitxers necessaris:
+
+bachata.txt
+monotonia.txt
+quedate.txt
+
+
+_____
+
+3
+
+/path/bachata.txt
+3
+/path/monotnia.txt
+3
+/path/quedate.txt
+2
+Shakira
+Monotonia
+4
+Shakira
+Monotonia
+5
+1
+Manuel Turizo
+5
+2
+Manuel Turizo
+5
+3
+Manuel Turizo
+La Bachata
+5
+4
+2
+{dios calles} & !verduras
+6
+pepe & pepa
+6
+pan & tomate
+7
+pan & tomate
+8
+pepe & pepa
+pepe & mariapepa
+10
+
