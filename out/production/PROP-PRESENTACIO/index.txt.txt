@@ -1,0 +1,11 @@
+Descripció Contingut:
+
+Domini:
+
+	Conté les classes.java 
+	El CtrlDomini.java
+	Main.java
+
+JUnit:
+
+	Conte els testos de les classes (classesTest.java) 
